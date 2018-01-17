@@ -7,3 +7,5 @@ Python dependencies:
 + Matplotlib
 + NLTK
 + Textract
+
+Interactive-plots relies on plotly to render, so won't work on github natively; needs to be viewed on nbviewer. [Link](http://nbviewer.jupyter.org/github/apoorvalal/manual-ngrams-newspapers/blob/master/interactive-plots.ipynb?flush_cache=true#Interactive-Plots)
